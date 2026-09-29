@@ -22,9 +22,16 @@ Construyo aplicaciones web y móviles, sistemas integrados y soluciones digitale
 ---
 
 ## 📊 GitHub Analytics
+<p align="center">
 
-<img src="./profile/stats.svg" width="48%">
-<img src="./profile/top-langs.svg" width="48%">
+<img src="./profile/stats.svg" width="48%"/>
+</p>
+
+<p align="center">
+
+<img src="./profile/top-langs.svg" width="48%"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andre00bejarano00vaca&theme=tokyonight&hide_border=true&locale=es" />
@@ -35,7 +42,11 @@ Construyo aplicaciones web y móviles, sistemas integrados y soluciones digitale
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre00bejarano00vaca&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="./profile/activity.svg"
+    width="95%"
+    alt="Contribution Activity"
+  />
 </p>
 
 ---
